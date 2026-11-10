@@ -6,7 +6,9 @@ Explain a digital product with a pixel city, platform-game actions and retro gam
 
 **16:9 · 1920 × 1080 · 60 fps · v2.6.6** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
-**[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-pixel)**
+Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
+
+**[Download .motion from MotionGit](https://motiongit.com/@motiongit/motiongit-promo-pixel)**
 https://motiongit.com/@motiongit/motiongit-promo-pixel
 
 Download available; current terms are listed with the package.
